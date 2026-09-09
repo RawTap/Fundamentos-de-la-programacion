@@ -1,3 +1,15 @@
 # pixi environments
 .pixi/*
 !.pixi/config.toml
+
+# vscode settings
+.vscode/*
+
+# Cache de python
+__pycache__/
+*.pyc
+
+#Ejecutable de c++
+*.exe
+*.out
+*.o
